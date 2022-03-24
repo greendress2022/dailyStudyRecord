@@ -18,9 +18,9 @@ I want to keep a record of what I learn every day and the time I devote to learn
 | 3/18 | map-hashmap,linkedlist-arraylist, classes,merge sort,htmil   | 9     | 9    | 60       | focused,energetic                       |
 | 3/19 | stack,heap,malloc, tree implementation(recursion is hard)    | 6.5   | 6    | 10       | distracted                              |
 | 3/20 | hash table, HashSet, circular queue                          | 8     | 8    | 60       | focused,patient                         |
-|      |                                                              |       |      |          |                                         |
-|      |                                                              |       |      |          |                                         |
-|      |                                                              |       |      |          |                                         |
+| 3/21 | Node, linkedlist,  recursion                                 | 4     | 5    | 30       | frustrated,school                       |
+| 3/22 | comparable, comparator, equals,==                            | 4     | 5    | 30       | frustrated,due                          |
+| 3/23 | debug, graph, tree-recursive add in c                        | 6     | 6    | 40       | cheer up,fight                          |
 |      |                                                              |       |      |          |                                         |
 |      |                                                              |       |      |          |                                         |
 |      |                                                              |       |      |          |                                         |
@@ -41,3 +41,11 @@ This channel is really amazing to clearly explain heap and memory. really apprec
 3/20
 
 During this break, I devoted 67.5 hours to review and learn new concepts. I made it to code every day. I set mini missions for every hour. Most of the time, I sticked to my plan and so proud of myself. See, small efforts lead to a giant leap. I am taking baby steps. Keep it up.
+
+3/22
+
+When new concepts come, I find it difficult to process at once which is quite frustrating. Seize the moment.
+
+3/23
+
+intentionality and attentiveness. It's not the time that matters, but the intentional practice. Pull myself up and continue to make daily improvements.
